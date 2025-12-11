@@ -16,7 +16,7 @@ function App() {
         </p>
         <a
           className="hero-btn"
-          href="https://wa.me/5491122334455?text=Hola! Quiero operar con intermediario."
+          href="https://wa.me/5492996262455?text=Hola! Quiero operar con intermediario."
           target="_blank"
         >
           Contactar por WhatsApp
