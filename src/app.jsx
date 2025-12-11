@@ -75,7 +75,7 @@ function App() {
             TikTok
           </a>
         </div>
-        <p className="copy">© 2025 Intermediario Seguro — Todos los derechos reservados.</p>
+        <p className="copy">© 2025 Intermediario Seguro — Todos los derechos reservados. </p>
       </footer>
     </div>
   );
